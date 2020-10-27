@@ -1,5 +1,4 @@
 # @lc app=leetcode.cn id=1277 lang=python
-# 这个和221实际是一样的
 class Solution:
     def countSquares(self, matrix: List[List[int]]) -> int:
         if len(matrix) == 0 or len(matrix[0]) == 0:
