@@ -1,4 +1,4 @@
-# @lc app=leetcode.cn id=055 lang=python
+# @lc app=leetcode.cn id=134 lang=python
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         '''
